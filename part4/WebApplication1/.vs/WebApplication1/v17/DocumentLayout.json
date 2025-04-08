@@ -1,0 +1,641 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\webapplication1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|solutionrelative:webapplication1\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|solutionrelative:service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\webapplication1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|solutionrelative:webapplication1\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\entities\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\entities\\dto\\supplierlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\dto\\supplierlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\service\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|solutionrelative:service\\services\\supplierproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71784A68-261A-4666-B29F-AB5785BFF1DC}|DataContext\\DataContext.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\datacontext\\storedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71784A68-261A-4666-B29F-AB5785BFF1DC}|DataContext\\DataContext.csproj|solutionrelative:datacontext\\storedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED87673-F561-4746-B3F4-083BE77CAAE8}|Service\\Service.csproj|solutionrelative:service\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250406184206_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\supplierproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405193859_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C029E34D-E053-433E-B409-D5568C3A9554}|Repository\\Repository.csproj|solutionrelative:repository\\interface\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405192428_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405191953_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|c:\\users\\aliza\\documents\\avigail\\hadasim\\part4_1\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76D228BF-10AA-4A31-9100-394A66FE9781}|WebApplication1\\StoreProject.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 67,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:187:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:188:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:186:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:191:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:189:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:177:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:178:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:179:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:181:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:182:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:183:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:184:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:185:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:180:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupplierLogInDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\DTO\\SupplierLogInDto.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\DTO\\SupplierLogInDto.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\DTO\\SupplierLogInDto.cs",
+              "RelativeToolTip": "Repository\\Entities\\DTO\\SupplierLogInDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:39:07.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupplierProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\SupplierProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierProductService.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\SupplierProductService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:39:03.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:09:35.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:46:16.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwBAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T12:09:14.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA+wEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:42:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwEkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:08:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\Supplier.cs",
+              "RelativeToolTip": "Repository\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T18:39:09.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\DTO\\SupplierDto.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\DTO\\SupplierDto.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Entities\\DTO\\SupplierDto.cs",
+              "RelativeToolTip": "Repository\\Entities\\DTO\\SupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:12:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\IOrderService.cs",
+              "RelativeToolTip": "Service\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:10:53.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:15:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:13:01.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoreDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\DataContext\\StoreDataContext.cs",
+              "RelativeDocumentMoniker": "DataContext\\StoreDataContext.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\DataContext\\StoreDataContext.cs",
+              "RelativeToolTip": "DataContext\\StoreDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:42:14.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Interface\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Interface\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interface\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:15:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Service\\Services\\SupplierService.cs",
+              "RelativeToolTip": "Service\\Services\\SupplierService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:31:21.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250406184206_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250406184206_init2.cs",
+              "RelativeDocumentMoniker": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250406184206_init2.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250406184206_init2.cs",
+              "RelativeToolTip": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250406184206_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:42:06.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SupplierProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Repositories\\SupplierProductRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\SupplierProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T18:33:18.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250405193859_init.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405193859_init.cs",
+              "RelativeDocumentMoniker": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405193859_init.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405193859_init.cs",
+              "RelativeToolTip": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405193859_init.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAQwLAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:38:59.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Interface\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interface\\IContext.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\Repository\\Interface\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interface\\IContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:30:15.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250405192428_init1.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405192428_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405192428_init1.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405192428_init1.cs",
+              "RelativeToolTip": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405192428_init1.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAYwMIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:24:28.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250405191953_init1.cs",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405191953_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405191953_init1.cs",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405191953_init1.cs",
+              "RelativeToolTip": "..\\..\\NewProject\\WebApplication1\\DataContext\\Migrations\\20250405191953_init1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:19:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aliza\\Documents\\Avigail\\Hadasim\\part4_1\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T19:15:23.407Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 791,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1623,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
