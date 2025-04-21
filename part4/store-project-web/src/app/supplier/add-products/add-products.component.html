@@ -1,0 +1,36 @@
+<div class="container" style="max-width: 500px; margin: auto;">
+    <h1>הוסף מוצר חדש</h1>
+    <form (ngSubmit)="addProduct()">
+      <div class="form-group">
+        <label for="name">שם מוצר</label>
+        <input
+          type="text"
+          id="name"
+          name="name"
+          [(ngModel)]="newProduct.Name"
+          class="form-control"
+          required
+        />
+      </div>
+      <div class="form-group">
+        <label for="price">מחיר</label>
+        <input
+          type="number"
+          id="price"
+          name="price"
+          [(ngModel)]="newProduct.Price"
+          class="form-control"
+          required
+        />
+      </div>
+      <div class="form-group">
+        <label for="minPurchase">כמות מינימלית לרכישה</label>
+        <input
+          type="number"
+          id="minPurchase"
+          name="minPurchase"
+          [(ngModel)]="newProduct.MinPurchase"
+          class="form-control"
+          required
+        />
+      </div>

@@ -1,0 +1,6 @@
+<h2>כל ההזמנות</h2>
+<ul>
+  <li *ngFor="let order of orders">
+    מזהה הזמנה: {{ order.Id }} | סטטוס: {{ order.Status }}
+  </li>
+</ul>

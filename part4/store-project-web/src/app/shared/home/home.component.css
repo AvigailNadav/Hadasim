@@ -1,0 +1,10 @@
+.home-container {
+    text-align: center;
+    padding: 50px;
+  }
+  .home-buttons button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+  }
+  

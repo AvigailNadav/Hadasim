@@ -1,0 +1,23 @@
+<nav class="navbar">
+<ul>
+    <div *ngIf="!authService.isLoggedIn(); else loggedInTemplate" class="guest-nav">
+        <a routerLink="/login">התחברות</a>
+        <a routerLink="/register">הרשמה</a>
+      </div>
+    
+    <ng-container *ngIf="userRole==='Manager'">
+        <li><a routerLink="/manager/products">מוצרים</a></li>
+        <li><a routerLink="/manager/suppliers">ספקים</a></li>
+        <li><a routerLink="/manager/new-order">הזמנה חדשה</a></li>
+        <li><a routerLink="/manager/orders">הזמנות</a></li>
+    </ng-container>
+
+    <ng-container *ngIf="userRole==='Supplier'">
+        <li><a routerLink="/supplier/dashboard">דשבורד</a></li>
+        <li><a routerLink="/supplier/my-orders">ההזמנות שלי</a></li>
+        <li><a routerLink="/supplier/add-product">הוסף מוצר</a></li>
+    </ng-container>
+
+    <li><a (click)="logout()">התנתק</a></li>
+</ul>
+</nav>

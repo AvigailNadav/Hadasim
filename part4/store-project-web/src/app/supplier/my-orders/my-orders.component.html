@@ -1,0 +1,28 @@
+<div class="orders-container" *ngIf="orders.length; else noOrders">
+    <h2>ההזמנות שלי</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>מספר הזמנה</th>
+          <th>תאריך</th>
+          <th>סטטוס</th>
+          <th>פעולות</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let order of orders">
+          <td>{{ order.id }}</td>
+          <td>{{ order.date | date:'short' }}</td>
+          <td>{{ order.status }}</td>
+          <td>
+            <button *ngIf="order.status !== 'בתהליך'" (click)="markAsInProgress(order.id)">סמן כבתהליך</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <ng-template #noOrders>
+    <p>אין עדיין הזמנות להצגה.</p>
+  </ng-template>
+  

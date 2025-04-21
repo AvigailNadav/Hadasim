@@ -1,0 +1,15 @@
+<form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+    <div>
+      <label>טלפון</label>
+      <input formControlName="phoneNumber" type="text" />
+    </div>
+  
+    <div>
+      <label>סיסמה</label>
+      <input formControlName="password" type="password" />
+    </div>
+  
+    <button type="submit">התחברות</button>
+  
+    <div *ngIf="errorMessage" class="error">{{ errorMessage }}</div>
+  </form>

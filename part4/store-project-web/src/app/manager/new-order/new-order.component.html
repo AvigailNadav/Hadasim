@@ -1,0 +1,53 @@
+<h2>צור הזמנה חדשה</h2>
+
+<!-- בחירת ספק -->
+<div class="form-group">
+  <label>בחר ספק:</label>
+  <select [(ngModel)]="selectedSupplierId" (change)="onSupplierChange()" class="form-control">
+    <option [ngValue]="null">-- בחר ספק --</option>
+    <option *ngFor="let supplier of suppliers" [ngValue]="supplier.id">
+      {{ supplier.name }} - {{ supplier.companyName }}
+    </option>
+  </select>
+</div>
+
+<!-- בחירת מוצר -->
+<div *ngIf="products.length > 0">
+  <label>בחר מוצר:</label>
+  <select [(ngModel)]="selectedProductId" class="form-control">
+    <option [ngValue]="null">-- בחר מוצר --</option>
+    <option *ngFor="let product of products" [ngValue]="product.id">
+      {{ product.name }} - {{ product.price }}₪
+    </option>
+  </select>
+
+  <label>כמות:</label>
+  <input type="number" [(ngModel)]="quantity" class="form-control" min="1" />
+
+  <button (click)="addToOrder()">הוסף להזמנה</button>
+</div>
+
+<!-- תצוגת מוצרים שנבחרו להזמנה -->
+<div *ngIf="orderDetails.length > 0">
+  <h3>פרטי הזמנה:</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>מזהה מוצר</th>
+        <th>כמות</th>
+        <th>מחיר ליח'</th>
+        <th>סה"כ</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of orderDetails">
+        <td>{{ item.productId }}</td>
+        <td>{{ item.quantity }}</td>
+        <td>{{ item.price }}</td>
+        <td>{{ item.totalPrice }}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button (click)="submitOrder()">שלח הזמנה</button>
+</div>

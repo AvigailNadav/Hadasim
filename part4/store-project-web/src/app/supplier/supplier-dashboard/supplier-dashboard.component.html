@@ -1,0 +1,16 @@
+<div class="dashboard-container" *ngIf="supplier; else noSupplier">
+    <h2>ברוך הבא, {{ supplier.Name }}!</h2>
+    <p><strong>טלפון:</strong> {{ supplier.PhoneNumber }}</p>
+    <p><strong>שם החברה:</strong> {{ supplier.CompanyName }}</p>
+  
+    <div class="actions">
+      <button (click)="navigateToAddProduct()">הוסף מוצר חדש</button>
+      <button (click)="navigateToMyProducts()">הצג את המוצרים שלי</button>
+    </div>
+  </div>
+  
+<ng-template #noSupplier>
+  <div class="no-supplier-message">
+    <p>לא נמצא ספק מחובר, עליך להתחבר כדי שתוכל לראות את המידע שלך</p>
+  </div>
+</ng-template>
